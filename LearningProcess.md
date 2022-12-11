@@ -108,10 +108,46 @@ A brief description about them and steps to be taken to improve learning process
 ## 3. Learn Anything in 20 hours
 
 ### 3.1 Key Takeaways.
-Content Goes Here
+Misconception: How Long does it take to Acquire a New Skill?
+We may have heard of the 10,000 hours rule.
+
+Originally, this came from a research by Prof. K. Anders Eriksson on expert-level performance of professional athletes, chess grandmasters, etc.
+
+How long does it take to get to the top of the field? He found that it took 10,000 hours of practice
+
+Malcolm Gladwell wrote the book on Outliers (The Story of Success) in 2007. The centerpiece of the book is the mention of the 10,000 hours rule. A misconception led to the change of meaning of the 10,000 hours rule to go from “it takes 10,000 hours to reach the top of the field” to eventually become “it takes 10,000 hours to learn something”.
+
+Skill Acquisition
+Studies on skills acquisition typically times how long a particular participant takes to accomplish a task. With a little bit of practice the time that it takes greatly reduces.
+
+Learning Curve
+When you start, you are grossly incompetent. With a little bit of practice you become quite good really quick. At a certain point, you reach a plateau and the subsequent gains takes longer to reach.
+
+For example, it may take you 5 hours to complete a task for the first time. But with a little practice you may find yourself completing the task in a shorter period of time such as 3 hours the second time around, 2 hours the third time, etc.
+
+How long does it take to go from zero to become reasonably good at something?
+Hint: It’s not 10,000 hours!
+
+Research from Josh Kaufman indicates that it takes only 20 hours of focused, deliberate practice for you to become reasonably good at something.
 
 ---
 ### 3.2 Steps to take while approaching a new topic
-Content Goes Here
+4 Simple Steps to Rapid Skill Acquisition
+1. Deconstruct the skill
+Decide exactly what you want to be able to do when you’re done. The skill is kind of like a big bundles of skills. The more you can break apart the skills, the more you will be able to figure out which skills will help you to reach your goal.
+
+2. Learn enough to self-correct
+Get 3–5 resource about what you want to learn (books, CDs). Don’t use this as a form of procrastination.
+Learn just enough so that you can self edit or self correct as you practice.
+The learning becomes a way of getting better at noticing when you make a mistake and then doing something a little different.
+3. Remove practice barriers
+Identify the distractions that are keeping you from practicing (e.g. TV, internet, etc.) and eliminate them.
+
+4. Practice for at least 20 hours
+Most skills have the “frustration barrier” (i.e. that grossly incompetent feeling).
+
+Feeling stupid is a barrier to us actually sitting down and doing the work.
+
+By pre-committing to 20 hours of practice, we can overcome this frustration barrier and get through it, in order to reap the rewards.
 
 ---
