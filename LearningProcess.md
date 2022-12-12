@@ -51,6 +51,7 @@ Finally, read it aloud, and if it still seems confusing, it could be an indicati
 <img src="media/BarbaraOakley.jpeg">
 <p><strong>Figure:</strong> Barbara Oakley </p>
 </div>
+
 ### 2.1 Video CRUX - "The Keys to Learning Effectively"
 Here are the list of topics that Barbara Oakley talked about in her video.
 - The elephant in the room:
@@ -93,14 +94,14 @@ A brief description about them and steps to be taken to improve learning process
     - erases the less important parts of memories
     - strengthens areas that you need or want to remember
 - Learning by doing, by active engagement and not passive listening. Active Recall helps a lot
-- understand the basic idea (understanding is like a glue to build and connect chunks)
+- Understand the basic idea (understanding is like a glue to build and connect chunks)
 - Recall is the best learning technique (instead of passive readings)
 - Minimize highlights- try to understand the main idea first and then highlight
 - Notes and helpful words are great- add them
 - Tests yourself = recall
 - Daily “to do” list /  daily journal works wonder
 - Make them as small as a pomodoro chunk
-- feynman Technique
+- Feynman Technique
 
 ---
 ---
@@ -126,16 +127,17 @@ Research from Josh Kaufman indicates that it takes only 20 hours of focused, del
 
 ---
 ### 3.2 Steps to take while approaching a new topic
-4 Simple Steps to Rapid Skill Acquisition
+#### Steps to Skill Acquisition
 1. Deconstruct the skill
 Decide exactly what you want to be able to do when you’re done. The skill is kind of like a big bundles of skills. The more you can break apart the skills, the more you will be able to figure out which skills will help you to reach your goal.
 
-2. Learn enough to self-correct
+1. Learn enough to self-correct
 Get 3–5 resource about what you want to learn (books, CDs). Don’t use this as a form of procrastination.
 Learn just enough so that you can self edit or self correct as you practice.
 The learning becomes a way of getting better at noticing when you make a mistake and then doing something a little different.
-3. Remove practice barriers
+
+1. Remove practice barriers
 Identify the distractions that are keeping you from practicing (e.g. TV, internet, etc.) and eliminate them.
 
-4. Practice for at least 20 hours
+1. Practice for at least 20 hours
 Most skills have the “frustration barrier” (i.e. that grossly incompetent feeling).
