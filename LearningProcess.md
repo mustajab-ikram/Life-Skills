@@ -47,80 +47,74 @@ Finally, read it aloud, and if it still seems confusing, it could be an indicati
 
 ---
 ## 2. Learning How to Learn TED talk by Barbara Oakley
-
-### 2.1 Video CRUX
+<div align="center">
+<img src="media/BarbaraOakley.jpeg">
+<p><strong>Figure:</strong> Barbara Oakley </p>
+</div>
+### 2.1 Video CRUX - "The Keys to Learning Effectively"
+Here are the list of topics that Barbara Oakley talked about in her video.
 - The elephant in the room:
-  - How did you change your brain?
-- Focus Mode 
-- Analogy time:
-  - Pinball Machine 
+  - How did you change your brain? : She dig deep to find the answer to her student's question.
+- Brain's Operation
+  - Focus Mode : Turn your attention and it gets on.
+  - Diffuse Mode : It's a relaxed set of neural states.
+  > <div align="center"> <img src="media/Focus&Diffuse.png"> <p><strong>Figure:</strong> Two Modes of Learning : The Pinball Analogy. </p> </div> 
+- Analogy time: To better understand 2 modes of learning.
+  - Pinball Machine :
+    - When you're learning, you oscillate between these 2 modes, and if you find yourself focusing on something, and get stuck, turn your attention away from problem and allow the diffuse to do their work in background.
 - Examples of 2 great personalities
   - Salvador Dali
-  - Thomas Edison (Thomas Edison stole ideas from Nikola Tesla)
-- Procrastination 
-- Slow thinking 
+  - Thomas Edison
+- Procrastination
+    > <div align="center"> <img src="media/Procastination.png"> <p><strong>Figure:</strong> Procastination. </p> </div> 
+    - How to tackle it?
+      - POMODORO 
+- Slow thinking / Poor Memory
+  - Some times best traits are the one, which you think are worst. 
 - Illusions of competence in learning 
-
+- Ways we can improve learning
+  - Exercise
+  - Test (Homework)
+  - Recall
+  
 A brief description about them and steps to be taken to improve learning process are discussed below.
 
 ---
 ### 2.2 Steps to take to improve learning process.
-#### Focused versus Diffuse Thinking
-- Metaphors provide powerful techniques for learning
-- Focused and diffuse modes (relax, let your mind flow in diffuse mode, then think in focused)
-- Learning something difficult takes time
-
-#### Procrastination, Memory, Sleep
-- Use Pomodoro technique to avoid procrastination, useful for focusing (agree, it is much easier to focus on something, I’ve started to use this site on a regular basis)
-- Practice makes permanent- neurons become linked together through repeated use
-- Long term memory & working memory
+- Use Metaphors, they provide powerful techniques for learning
+- Focused and diffuse modes (when stuck, relax, let your mind flow in diffuse mode, then think in focused). Learning something difficult takes time give yourself some time to go back and forth in these states
+- Using Pomodoro technique to avoid procrastination helps a lot, very useful for focusing (been using it)
+- Practice makes permanent- neurons become linked together through repeated use. Test yourself and indulge deep into your Homework / drill.
+  - You can't learn a song by listening it once, same goes with your homework, you can't excell it until you dig deep into it again and again.
 - Spaced repetition- repeat what you’re trying to retain over a number of days, the chance to remember will be higher
-- Sleep:
+- Exercise & Sleep properly:
+    - increase our ability to both learn & remember
     - cleans toxic products in your brain
     - erases the less important parts of memories
     - strengthens areas that you need or want to remember
-- Learning by doing, by active engagement and not passive listening
-> Smart != success; passion + persistence = success
-
-#### Chunking
-- focus on something you’re learning
+- Learning by doing, by active engagement and not passive listening. Active Recall helps a lot
 - understand the basic idea (understanding is like a glue to build and connect chunks)
-- the first time you actually understand = the first time you can actually do it yourself
-- learning = chunks (how to do something) + context (when to/not to use it)
-
-#### Illusions of competence
 - Recall is the best learning technique (instead of passive readings)
 - Minimize highlights- try to understand the main idea first and then highlight
 - Notes and helpful words are great- add them
-- Tests yourself= recall
-- Interleaving is a great way to master a new subject (jump between different problems/situations, use different techniques/strategies)
-
-#### Focused learning
-- Once a week write a brief weekly list of key tasks in a planner journal
-- Daily “to do” list- frees working memory for problem-solving
+- Tests yourself = recall
+- Daily “to do” list /  daily journal works wonder
 - Make them as small as a pomodoro chunk
-- Interleave (just between different topics)
-- Planning your quitting time is as important as planning your working time
-- Try to work on the most important and most disliked task first
+- feynman Technique
 
 ---
 ---
 ## 3. Learn Anything in 20 hours
 
 ### 3.1 Key Takeaways.
-Misconception: How Long does it take to Acquire a New Skill?
 We may have heard of the 10,000 hours rule.
 
 Originally, this came from a research by Prof. K. Anders Eriksson on expert-level performance of professional athletes, chess grandmasters, etc.
 
 How long does it take to get to the top of the field? He found that it took 10,000 hours of practice
 
-Malcolm Gladwell wrote the book on Outliers (The Story of Success) in 2007. The centerpiece of the book is the mention of the 10,000 hours rule. A misconception led to the change of meaning of the 10,000 hours rule to go from “it takes 10,000 hours to reach the top of the field” to eventually become “it takes 10,000 hours to learn something”.
-
-Skill Acquisition
 Studies on skills acquisition typically times how long a particular participant takes to accomplish a task. With a little bit of practice the time that it takes greatly reduces.
 
-Learning Curve
 When you start, you are grossly incompetent. With a little bit of practice you become quite good really quick. At a certain point, you reach a plateau and the subsequent gains takes longer to reach.
 
 For example, it may take you 5 hours to complete a task for the first time. But with a little practice you may find yourself completing the task in a shorter period of time such as 3 hours the second time around, 2 hours the third time, etc.
@@ -145,9 +139,3 @@ Identify the distractions that are keeping you from practicing (e.g. TV, interne
 
 4. Practice for at least 20 hours
 Most skills have the “frustration barrier” (i.e. that grossly incompetent feeling).
-
-Feeling stupid is a barrier to us actually sitting down and doing the work.
-
-By pre-committing to 20 hours of practice, we can overcome this frustration barrier and get through it, in order to reap the rewards.
-
----
