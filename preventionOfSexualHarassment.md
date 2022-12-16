@@ -27,14 +27,6 @@
       - Impeding or blocking movement
       - Inappropriate touching ( kissing, hugging, patting, stroking, rubbing )
       - Sexual gesturing, leering or staring or any kind is considered inappropriate
-
-___
-
-<div align="center">
-<img src="media/POSH-2.jpeg>
-<p><strong>Figure:</strong> POSH.</p>
-</div>
-
 ___
 
 ### 2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
@@ -46,3 +38,8 @@ ___
 - I'll directly confront the harasser and call out the behavior in the moment
 
 **With that said, we can also follow some generic steps, to actually stop harassment and bullying in the first place by:** *Promote equity and respect in our workplace, and be an ally to someone being harassed* 
+
+<div align="center">
+<img src="media/POSH-2.jpeg>
+<p><strong>Figure:</strong> POSH.</p>
+</div>
